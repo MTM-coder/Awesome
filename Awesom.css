@@ -1,0 +1,68 @@
+body
+{
+font-family: 'Raleway', sans-serif;
+font-family: 'Open Sans', sans-serif;
+width: 1510px;
+margin: 0px;
+}
+
+.header
+{
+font-family: 'Raleway';
+font-weight: 400;
+color: black;
+text-align: center;
+margin: 0px 171px 0px;
+}
+
+.header__h1
+{
+    height: 150px;
+    width: 1170px;
+    line-height: 150px;
+}
+
+.line
+{
+    width: 170px;
+    height: 0px;
+    background: #EC7979;
+    border: 1px solid #EC7979;
+    margin:0px 500px 0px;
+
+}
+
+.header__p
+{
+    height: 21px;
+    width: 1169px;
+    color: #86878B;
+    margin-top: 21px;
+    margin-bottom: 71px;
+}
+
+.main
+{font-family: 'Raleway';
+font-weight: 400;
+color: black;
+text-align: center;
+display: flex;
+margin-left: 171px;
+}
+
+.main__card
+{
+width: 379px;
+height: 383px;
+margin-bottom: 58px;
+}
+
+.main__card__h3
+{
+width: 369px;
+height: 100px;
+font-family: 'Open Sans';
+font-weight: 700;
+line-height: 100px;
+margin-bottom: 8px;
+}
